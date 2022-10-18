@@ -1,0 +1,15 @@
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\bin\Debug\imobileDemo.exe.config
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\bin\Debug\imobileDemo.exe
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\bin\Debug\imobileDemo.pdb
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\bin\Debug\iMobileDevice-net.dll
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\bin\Debug\iMobileDevice-net.pdb
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\bin\Debug\iMobileDevice-net.xml
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\obj\Debug\imobileDemo.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\obj\Debug\imobileDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\obj\Debug\imobileDemo.Form1.resources
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\obj\Debug\imobileDemo.Properties.Resources.resources
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\obj\Debug\imobileDemo.csproj.GenerateResource.cache
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\obj\Debug\imobileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\obj\Debug\imobileDemo.csproj.CopyComplete
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\obj\Debug\imobileDemo.exe
+C:\Users\Ian\Desktop\ian\C#\imobilegetfile\imobileDemo\obj\Debug\imobileDemo.pdb
